@@ -1,0 +1,177 @@
+{
+  "header": {
+    "call": "Call +91 78239 11555",
+    "branchLocator": "Branch Locator",
+    "creditScore": "Check your credit score for FREE!",
+    "search": "Search...",
+    "customerLogin": "Customer Login",
+    "navigation": {
+      "homeLoans": "Home Loans",
+      "pmay": "PMAY 2.0",
+      "mortgageLoans": "Mortgage Loans",
+      "emiCalculator": "EMI Calculator",
+      "partnerUs": "Partner Us",
+      "careers": "Careers",
+      "aboutUs": "About Us"
+    }
+  },
+  "hero": {
+    "slide1": {
+      "title": "Get a Home Loan without Income Proof",
+      "subtitle": "Turn your dream home into reality with our flexible documentation process",
+      "cta": "Apply Now"
+    },
+    "slide2": {
+      "title": "Interview-based Scorecard",
+      "subtitle": "Get instant eligibility assessment based on your profile",
+      "cta": "Check Eligibility"
+    },
+    "slide3": {
+      "title": "PMAY 2.0 Subsidy Now Open",
+      "subtitle": "Avail government subsidies up to ₹2.67 lakhs on your home loan",
+      "cta": "Learn More"
+    },
+    "slide4": {
+      "title": "EMI Calculator",
+      "subtitle": "Estimate Your Monthly Payment in seconds",
+      "cta": "Calculate Now"
+    }
+  },
+  "floatingActions": {
+    "call": "Call Us",
+    "whatsapp": "WhatsApp",
+    "enquiry": "Enquiry",
+    "scorecard": "Scorecard",
+    "emiCalculator": "EMI Calculator"
+  },
+  "whyChoose": {
+    "title": "Why Choose AHAM Housing Finance?",
+    "subtitle": "Your trusted partner in home financing with over years of excellence",
+    "features": {
+      "lowDoc": {
+        "title": "Low Documentation",
+        "description": "Minimal paperwork with flexible income proof requirements"
+      },
+      "fastProcessing": {
+        "title": "Fast Processing",
+        "description": "Quick loan approval and disbursal within 7-15 working days"
+      },
+      "customerTrust": {
+        "title": "Customer Trust",
+        "description": "Trusted by thousands of families across India"
+      },
+      "regionalExpertise": {
+        "title": "Regional Expertise",
+        "description": "Deep understanding of local markets and property values"
+      }
+    },
+    "stats": {
+      "customers": "Happy Customers",
+      "branches": "Branches",
+      "experience": "Years of Experience",
+      "disbursed": "Crores Disbursed"
+    }
+  },
+  "products": {
+    "title": "Our Loan Products",
+    "subtitle": "Comprehensive housing finance solutions for every need",
+    "items": {
+      "homeConstruction": {
+        "title": "Home Construction Loan",
+        "description": "Build your dream home with stage-wise financing"
+      },
+      "plotConstruction": {
+        "title": "Plot + Construction Loan",
+        "description": "One loan for plot purchase and construction"
+      },
+      "nriLoan": {
+        "title": "NRI Home Loan",
+        "description": "Special loan products for Non-Resident Indians"
+      },
+      "renovation": {
+        "title": "Home Renovation Loan",
+        "description": "Upgrade and renovate your existing property"
+      },
+      "extension": {
+        "title": "Home Extension Loan",
+        "description": "Expand your home with additional construction"
+      },
+      "mortgage": {
+        "title": "Mortgage Loan",
+        "description": "Loan against property for various financial needs"
+      }
+    }
+  },
+  "emiCalculator": {
+    "title": "EMI Calculator",
+    "subtitle": "Calculate your monthly EMI instantly",
+    "loanAmount": "Loan Amount (₹)",
+    "interestRate": "Interest Rate (%)",
+    "tenure": "Tenure (Years)",
+    "monthlyEmi": "Monthly EMI",
+    "totalAmount": "Total Amount",
+    "totalInterest": "Total Interest",
+    "calculate": "Calculate EMI"
+  },
+  "eligibilityScorecard": {
+    "title": "Eligibility Scorecard",
+    "subtitle": "Check your loan eligibility in minutes",
+    "questions": {
+      "age": "Age Group",
+      "income": "Annual Income",
+      "employment": "Employment Type",
+      "city": "City Type",
+      "existingLoans": "Existing Loans",
+      "creditScore": "Credit Score Range",
+      "propertyType": "Property Type"
+    },
+    "checkEligibility": "Check Eligibility",
+    "score": "Your Eligibility Score",
+    "status": "Eligibility Status",
+    "recommendations": "Recommendations"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Real experiences from satisfied customers"
+  },
+  "blog": {
+    "title": "Latest Updates",
+    "subtitle": "Stay informed with housing finance news and tips"
+  },
+  "footer": {
+    "description": "AHAM Housing Finance Limited - Your trusted partner in making homeownership dreams come true.",
+    "quickLinks": "Quick Links",
+    "products": "Products",
+    "support": "Support",
+    "contact": "Contact Information",
+    "address": "Corporate Office: Mumbai, India",
+    "email": "info@ahamhfc.com",
+    "phone": "+91 78239 11555",
+    "copyright": "© 2024 AHAM Housing Finance Limited. All rights reserved."
+  },
+  "forms": {
+    "name": "Full Name",
+    "mobile": "Mobile Number",
+    "email": "Email Address",
+    "city": "City",
+    "loanType": "Loan Type",
+    "loanAmount": "Required Loan Amount",
+    "message": "Message",
+    "submit": "Submit Enquiry",
+    "newsletter": "Subscribe to Newsletter",
+    "required": "This field is required",
+    "validEmail": "Please enter a valid email",
+    "validMobile": "Please enter a valid mobile number"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "applyNow": "Apply Now",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "close": "Close",
+    "loading": "Loading...",
+    "success": "Success!",
+    "error": "Error",
+    "tryAgain": "Try Again"
+  }
+}
